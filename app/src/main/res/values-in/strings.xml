@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Github Users App</string>
+    <string name="name">Nama</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="repositories">Repositori</string>
+    <string name="name_user_github">Nama Pengguna</string>
+    <string name="username">Nama pengguna</string>
+    <string name="company">Perusahaan</string>
+    <string name="input_username">Masukkan Nama Pengguna</string>
+    <string name="github_agungwibowo">sidiqpermana</string>
+    <string name="search">Cari</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="url">tautan github</string>
+    <string name="setting">Pengaturan</string>
+    <string name="language">Bahasa</string>
+</resources>
